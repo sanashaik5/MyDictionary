@@ -14,7 +14,7 @@ MyDictionary is a Java application . It is designed and developed using TreeMap 
 
 2 Searching a word 
 
-![3](https://user-images.githubusercontent.com/60684974/107976204-33a87400-6fdf-11eb-87e2-3e97040808d5.PNG)
+![6](https://user-images.githubusercontent.com/60684974/107977513-3f953580-6fe1-11eb-94d1-c506a90d1e78.PNG)
 
 3 Displaying words in dictionary
 
