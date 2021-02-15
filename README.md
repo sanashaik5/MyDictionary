@@ -3,7 +3,8 @@ MyDictionary is a Java application . It is designed and developed using TreeMap 
 * It is used for searching the meaning of a word.
 * It allows to insert a word and its meaning 
 * It is designed and developed using Collections from Java 
-============= (======================== (
+
+======================================= 
 
 * Inserting a word and its meaning
 
